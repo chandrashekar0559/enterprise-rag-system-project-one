@@ -1,0 +1,11 @@
+Corporate Security Policy
+
+Employees must use strong passwords for corporate systems.
+
+Corporate passwords must be changed every 90 days.
+
+Employees must not share passwords with other employees.
+
+Multi-factor authentication must be enabled for systems that support it.
+
+Security incidents must be reported to the security team immediately.

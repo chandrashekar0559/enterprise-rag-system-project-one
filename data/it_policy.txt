@@ -1,0 +1,10 @@
+IT Support Policy
+
+Employees should contact the IT help desk for technical issues.
+
+Critical production incidents should be reported immediately.
+
+Standard support requests are normally handled during business hours.
+
+Employees should include screenshots and relevant error messages when
+submitting technical support requests.
